@@ -8,10 +8,9 @@ Measurements:
 Weight: (Kgs)
 Height: (M)
 
+
+
 BMI = Weight/(Height * Height)
 
-this is an edit
+We will use  BMIO to determin whether a person is underwheight, normal or overwheight.
 
-this is another
-
-another
